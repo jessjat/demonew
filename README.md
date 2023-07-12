@@ -2,4 +2,4 @@
 
 some description!
 
-This my commit
+This is my commit
